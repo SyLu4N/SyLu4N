@@ -28,7 +28,7 @@
   </div>  
 </div>
   
-# My projetos
+# My projects
 
 <div>
   
@@ -39,7 +39,7 @@
     
  </div>
 
-  <div height="180em">
+  <div height="180em" width="200px">
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=HtmleCssCursoemVideo&theme=dracula)](https://github.com/SyLu4N/HtmleCssCursoemVideo)
