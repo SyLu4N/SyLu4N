@@ -31,10 +31,6 @@
 # My projects
 
 <div>  
-  <p>Studies Javascript 📚</p>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=JsUdemy&theme=dracula)](https://github.com/SyLu4N/JsUdemy)
-
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=HtmleCssCursoemVideo&theme=dracula)](https://github.com/SyLu4N/HtmleCssCursoemVideo)
@@ -43,4 +39,8 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=HtmleCssUdemy&theme=dracula)](https://github.com/SyLu4N/HtmleCssUdemy)
   
+  <p>Studies Javascript 📚</p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=JsUdemy&theme=dracula)](https://github.com/SyLu4N/JsUdemy)
+
 </div>
