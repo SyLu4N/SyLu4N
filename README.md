@@ -32,15 +32,17 @@
 
 <div>
   
- <div height="180em">
-    
+  <div height="180em">
   <p>Studies Javascript 📚</p>
-  
-  <div>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=JsUdemy&theme=dracula)](https://github.com/SyLu4N/JsUdemy)</div>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=JsUdemy&theme=dracula)](https://github.com/SyLu4N/JsUdemy)
     
  </div>
- ## Studies HTML/CSS in CursoemVideo 📚
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=HtmleCssCursoemVideo&theme=dracula)](https://github.com/SyLu4N/HtmleCssCursoemVideo)
+  <div height="180em">
+   <p>Studies HTML/CSS in CursoemVideo 📚</p>
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=HtmleCssCursoemVideo&theme=dracula)](https://github.com/SyLu4N/HtmleCssCursoemVideo)
+  
+  </div>
 </div>
