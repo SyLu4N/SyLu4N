@@ -43,7 +43,7 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=JsUdemy&theme=dracula)](https://github.com/SyLu4N/JsUdemy)
 
-  <p>Studies TypeScript/ReactJs 📚</p>
+  <p>Studies TypeScript/ReactJs/NodeJs 📚</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=nlw-return&theme=dracula)](https://github.com/SyLu4N/nlw-return)
 
