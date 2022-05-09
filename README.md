@@ -39,8 +39,12 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=HtmleCssUdemy&theme=dracula)](https://github.com/SyLu4N/HtmleCssUdemy)
   
-  <p>Studies Javascript 📚</p>
+  <p>Studies Javascript/TypeScript 📚</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=JsUdemy&theme=dracula)](https://github.com/SyLu4N/JsUdemy)
+
+  <p>Studies TypeScript/ReactJs 📚</p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=nlw-return&theme=dracula)](https://github.com/SyLu4N/nlw-return)
 
 </div>
