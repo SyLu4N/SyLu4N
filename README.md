@@ -49,6 +49,6 @@
 
   <p>Studies TypeScript/ReactJs/Fake API   📚</p>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=nlw-return&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
 
 </div>
