@@ -51,11 +51,13 @@
 
 # ✅ Projects
 
-  <p>SearchCep | TypeScript/ReactJs/Fake API 📍</p>
+  <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
 
-  <p>Spacetraveling. | TypeScript/ReactJs/CMS 📱</p>
+  <h2></h2>
+
+  <p>Spacetraveling. | TypeScript/ReactJs/CMS/SASS 📱</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
 
