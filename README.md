@@ -27,8 +27,8 @@
   
   </div>  
 </div>
-  
-# My projects
+
+# 📚 Learnings
 
 <div>  
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
@@ -47,8 +47,15 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=nlw-return&theme=dracula)](https://github.com/SyLu4N/nlw-return)
 
-  <p>Studies TypeScript/ReactJs/Fake API   📚</p>
+</div>
+
+# ✅ Projects
+
+  <p>SearchCep TypeScript/ReactJs/Fake API 📍</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
 
-</div>
+  <p>Spacetraveling. TypeScript/ReactJs/CMS 📱</p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
+
