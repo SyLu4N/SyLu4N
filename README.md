@@ -28,7 +28,7 @@
   </div>  
 </div>
 
-<div align="center">
+<div>
   <h1> &lt; My Portfolio /&gt; </h1>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=dracula)](https://github.com/SyLu4N/myportfolio)
@@ -69,13 +69,12 @@
 
 # ✅ Projects
 
-  <div>
+  <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
 
-    <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
-    <h2></h2>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
 
-    <p>Spacetraveling. | TypeScript/ReactJs/CMS/SASS 📱</p>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
+  <h2></h2>
 
-  </div>
+  <p>Spacetraveling. | TypeScript/ReactJs/CMS/SASS 📱</p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
