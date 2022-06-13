@@ -28,13 +28,13 @@
   </div>  
 </div>
 
-# &lt; My Portfolio /&gt;
+<div align="center">
+  # &lt; My Portfolio /&gt;
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=dracula)](https://github.com/SyLu4N/myportfolio)
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=dracula)](https://github.com/SyLu4N/myportfolio)
-
-# 💡 Others
-
-<h3>📚 Learnings</h3>
+# 📚 Learnings
 
 <div>  
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
@@ -67,14 +67,15 @@
 
 </div>
 
-<h6>✅ Projects</h6>
+# ✅ Projects
 
-  <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
+  <div>
 
-  <h2></h2>
+    <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
+    <h2></h2>
 
-  <p>Spacetraveling. | TypeScript/ReactJs/CMS/SASS 📱</p>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
+    <p>Spacetraveling. | TypeScript/ReactJs/CMS/SASS 📱</p>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
+
+  </div>
