@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  # &lt; My Portfolio /&gt;
+  <h1> &lt; My Portfolio /&gt; </h1>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=dracula)](https://github.com/SyLu4N/myportfolio)
 </div>
