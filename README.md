@@ -34,7 +34,7 @@
 
 # 💡 Others
 
-<h4>📚 Learnings</h4>
+<h3>📚 Learnings</h3>
 
 <div>  
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
