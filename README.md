@@ -14,7 +14,7 @@
 </div>
 
 ##
-  
+
 <div> 
   <a href="https://www.instagram.com/_luannsimoes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/SyLu4N" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -28,7 +28,13 @@
   </div>  
 </div>
 
-# 📚 Learnings
+# 📌 </> My Portfolio
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=dracula)](https://github.com/SyLu4N/myportfolio)
+
+# 💡 Others
+
+<h1>📚 Learnings</h1>
 
 <div>  
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
@@ -61,7 +67,11 @@
 
 </div>
 
-# ✅ Projects
+<h6></h6>
+<h6></h6>
+<h6></h6>
+
+<h1>✅ Projects</h1>
 
   <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
   
@@ -72,4 +82,3 @@
   <p>Spacetraveling. | TypeScript/ReactJs/CMS/SASS 📱</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
-
