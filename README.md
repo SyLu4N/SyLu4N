@@ -28,13 +28,13 @@
   </div>  
 </div>
 
-# 📌 </> My Portfolio
+# &lt; My Portfolio /&gt;
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=dracula)](https://github.com/SyLu4N/myportfolio)
 
 # 💡 Others
 
-<h1>📚 Learnings</h1>
+<h6>📚 Learnings</h6>
 
 <div>  
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
@@ -67,11 +67,7 @@
 
 </div>
 
-<h6></h6>
-<h6></h6>
-<h6></h6>
-
-<h1>✅ Projects</h1>
+<h6>✅ Projects</h6>
 
   <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
   
