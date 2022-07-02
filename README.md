@@ -33,14 +33,20 @@
 </div>
 
 <div>
+  <br/>
+
   <h1> &lt; My Portfolio /&gt; </h1>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=dracula)](https://github.com/SyLu4N/myportfolio)
 </div>
+<br/>
+<br/>
 
 # 📚 Learnings
 
-<div>  
+<div>
+  <br/>
+  
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=HtmleCssCursoemVideo&theme=dracula)](https://github.com/SyLu4N/HtmleCssCursoemVideo)
@@ -70,6 +76,8 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=ignite-rocketseat&theme=dracula)](https://github.com/SyLu4N/ignite-rocketseat)
 
 </div>
+<br/>
+<br/>
 
 # ✅ Projects
 
