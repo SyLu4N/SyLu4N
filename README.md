@@ -1,6 +1,8 @@
-<div >
+<div align="center">
   <img src="./helloWorld.png" alt="Hello World" />
 </div>
+<br/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/SyLu4N">
