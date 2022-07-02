@@ -1,4 +1,6 @@
-### Hello, world! I'm Luan Simões
+<div >
+  <img src="./helloWorld.png" alt="Hello World" />
+</div>
 
 <div align="center">
   <a href="https://github.com/SyLu4N">
