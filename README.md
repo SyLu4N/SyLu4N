@@ -2,7 +2,6 @@
   <img src="./helloWorld.png" alt="Hello World" />
 </div>
 <br/>
-<br/>
 
 <div align="center">
   <a href="https://github.com/SyLu4N">
@@ -33,9 +32,10 @@
 </div>
 
 <div>
-  <br/>
 
   <h1> &lt; My Portfolio /&gt; </h1>
+  <br/>
+  <br/>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=dracula)](https://github.com/SyLu4N/myportfolio)
 </div>
@@ -45,6 +45,7 @@
 # 📚 Learnings
 
 <div>
+  <br/>
   <br/>
   
    <p>Studies HTML/CSS in CursoemVideo 📚</p>
@@ -76,10 +77,13 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=ignite-rocketseat&theme=dracula)](https://github.com/SyLu4N/ignite-rocketseat)
 
 </div>
-<br/>
-<br/>
+<br />
+<br />
 
 # ✅ Projects
+
+<br />
+<br />
 
   <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
 
