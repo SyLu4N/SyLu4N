@@ -65,7 +65,7 @@
   
   <h2></h2>
 
-  <p>Worldtrip | TypeScript/ReactJs/Chakra-UI 🛫</p>
+  <p>Worldtrip | TypeScript/ReactJs/Chakra-UI/Fake API 🛫</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=worldtrip&theme=dracula)](https://github.com/SyLu4N/worldtrip)
 
