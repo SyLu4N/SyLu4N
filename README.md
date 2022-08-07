@@ -41,6 +41,34 @@
 <br/>
 <br/>
 
+
+# ✅ Projects
+
+<br />
+
+  <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
+
+  <h2></h2>
+
+  <p>Spacetraveling. | TypeScript/ReactJs/CMS/SASS 📱</p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
+  
+  
+  <h2></h2>
+
+  <p>RodizioPizza | TypeScript/ReactJs/Styled-components 🍕</p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=rodiziopizza&theme=dracula)](https://github.com/SyLu4N/rodiziopizza)
+  
+  <h2></h2>
+
+  <p>Worldtrip | TypeScript/ReactJs/Chakra-UI 🛫</p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=worldtrip&theme=dracula)](https://github.com/SyLu4N/worldtrip)
+
 # 📚 Learnings
 
 <div>
@@ -77,24 +105,3 @@
 </div>
 <br />
 <br />
-
-# ✅ Projects
-
-<br />
-
-  <p>SearchCep | TypeScript/ReactJs/Fake API/Styled-Components/Modal 📍</p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=APIEndereco&theme=dracula)](https://github.com/SyLu4N/APIEndereco)
-
-  <h2></h2>
-
-  <p>Spacetraveling. | TypeScript/ReactJs/CMS/SASS 📱</p>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=blogNextJs&theme=dracula)](https://github.com/SyLu4N/blogNextJs)
-  
-  
-  <h2></h2>
-
-  <p>RodizioPizza | TypeScript/ReactJs/Styled-components 🍕</p>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=rodiziopizza&theme=dracula)](https://github.com/SyLu4N/rodiziopizza)
