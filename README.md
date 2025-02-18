@@ -104,6 +104,12 @@
   <p>Studies TypeScript/ReactJs/NextJs/CMS/SASS/styled-components/Stripe/Prismic 📚</p>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=ignite-rocketseat&theme=dracula)](https://github.com/SyLu4N/ignite-rocketseat)
+  
+  <h2></h2>
+
+  <p>Studies React Native/Expo/Tailwind CSS/Async Storage/React Navigation/Redux Toolkit/TypeScript 📱📚</p>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=learn-react-native&theme=dracula)](https://github.com/SyLu4N/learn-react-native)
 
 </div>
 <br />
