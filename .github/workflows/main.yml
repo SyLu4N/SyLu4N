@@ -19,7 +19,7 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
-          color_snake: "#0000FF"
+          color_snake: "#2a72de"
 
       - name: Commit e push da animação
         uses: EndBug/add-and-commit@v9
