@@ -26,7 +26,7 @@
   
   <div align="center">
   
-   ![Snake animation](https://github.com/SyLu4N/SyLu4N/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/SyLu4N/SyLu4N/blob/output/dist/github-snake.svg)
   
   </div>  
 </div>
