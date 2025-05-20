@@ -62,6 +62,9 @@
 ### 🛫 Worldtrip
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=worldtrip&theme=blueberry)](https://github.com/SyLu4N/worldtrip)
 
+### 🍕📱 RodizioPizza App
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=worldtrip&theme=blueberry)](https://github.com/SyLu4N/rodiziopizza-app)
+
 ---
 
 ## 📚 Learnings:
