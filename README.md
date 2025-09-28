@@ -3,6 +3,8 @@
 ## 🎨 &lt; My Portfolio /&gt;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=myportfolio&theme=blueberry)](https://github.com/SyLu4N/myportfolio)
 
+</br>
+
 ## ✅ Projects:
 ### 🌐 SL Cosméticos
 - **Link:** [slcosmeticos.com.br](https://slcosmeticos.com.br)
@@ -27,6 +29,8 @@
 ### 🍕📱 RodizioPizza App
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=worldtrip&theme=blueberry)](https://github.com/SyLu4N/rodiziopizza-app)
 
+</br>
+
 ## 📚 Learnings:
 
 ### 📖 Studies HTML/CSS - CursoemVideo
@@ -46,6 +50,8 @@
 
 ### 📱 Studies React Native/Expo/Tailwind CSS/Async Storage/React Navigation/Redux Toolkit/TypeScript
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=learn-react-native&theme=blueberry)](https://github.com/SyLu4N/learn-react-native)
+
+</br>
 
 ### 🌎 Connect with me:
 <div> 
