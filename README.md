@@ -29,7 +29,7 @@
 ### 🍕📱 RodizioPizza App
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=rodiziopizza-app&theme=blueberry)](https://github.com/SyLu4N/rodiziopizza-app)
 
-### 🍕📱 Desafio Hunterstack.io
+### 🔐 Desafio Hunterstack.io
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyLu4N&repo=hunterstack-app&theme=blueberry)](https://github.com/SyLu4N/hunterstack)
 
 </br>
